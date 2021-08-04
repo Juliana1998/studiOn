@@ -1,0 +1,28 @@
+{
+  "name": "novoprojeto",
+  "version": "0.0.1",
+  "description": "Homepage for studion events",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juliana1998/studiOn.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Juliana Rodrigues Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juliana1998/studiOn/issues"
+  },
+  "homepage": "https://github.com/Juliana1998/studiOn#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
+
